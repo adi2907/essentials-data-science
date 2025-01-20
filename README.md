@@ -26,12 +26,9 @@ git clone https://github.com/adi2907/essentials-of-data-science
 cd essentials-of-data-science
 ```
 
-### 2. Setup your environment:
-```bash
-python -m venv env
-source env/bin/activate  # On Windows use: env\Scripts\activate
-pip install -r requirements.txt
-```
+Copy to Google colab and run. We are using the standard libraries which are available off the shelf in Colab
+
+OR set up your own environment and run these Jupyter notebooks. The pip installs are there in the code lines itself
 
 ### 3. Run the animations:
 ```bash
