@@ -90,7 +90,6 @@ npm run dev
 The repository includes:
 
 * 📚 Detailed Jupyter notebooks for each topic
-* ✍️ Hands-on exercises with solutions
 * 🎬 Interactive animations for complex concepts
 * 📊 Real-world datasets for practice
 
@@ -104,3 +103,4 @@ If you find any issues or have suggestions for improvements:
 4. 🚀 Submit a pull request
 
 *Note: This course is designed to be hands-on and practical, with emphasis on real-world applications rather than theoretical concepts.*
+* Consider starring it if you find it useful for greater reach
